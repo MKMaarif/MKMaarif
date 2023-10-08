@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 	hobbies = [
 		'Coding',
 		'Watching Anime and Vtubers',
- 		'Sci-Fi Movies',
+	'Sci-Fi Movies',
 		'Listening to Various Genre of Music'
 	]
 	
