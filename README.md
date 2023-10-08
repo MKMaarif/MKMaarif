@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 	current_edu = "S1-Informatics of Universitas Diponegoro"
     fun_fact = "I am CUPU but everybody call me SEPUH"
 	hobbies = [
-				'Coding',
-			 	'Watching Anime and Vtubers',
-        'Sci-Fi Movies',
-				'Listening to Various Genre of Music'
-			]
+		'Coding',
+		'Watching Anime and Vtubers',
+ 		'Sci-Fi Movies',
+		'Listening to Various Genre of Music'
+	]
 	
 	def getCity():
 		return Semarang_Indonesia()
