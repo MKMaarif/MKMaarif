@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaarif&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaarif&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MKMaarif)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MKMaarif)](https://github.com/anuraghazra/github-readme-stats) -->
  
  ## Programming Languages
 
