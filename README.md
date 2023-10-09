@@ -40,17 +40,21 @@ Here are some ideas to get you started:
 	
  ```
  
- ## Github Stats
- 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MKMaarif&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MKMaarif&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+## Github Stats
+<div>
+  <div>
+    [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MKMaarif)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div>
+    [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MKMaarif&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+    [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MKMaarif&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MKMaarif&theme=blueberry_duo"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MKMaarif&theme=blueberry_duo"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaarif&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaarif&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MKMaarif)](https://github.com/anuraghazra/github-readme-stats) -->
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaarif&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaarif&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  </div>
+</div>
  
  ## Programming Languages
 
